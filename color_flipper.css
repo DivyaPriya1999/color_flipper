@@ -1,0 +1,19 @@
+#colorbutton{
+    background-color: tomato;
+    border-radius: 20px;
+    height: 100px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 20%;
+    cursor: pointer;
+    border-style: inset;
+    border-width: 10px;
+    font-size: 30px;
+
+}
+body{
+    background: linear-gradient(dodgerblue,purple,yellow);
+    width: 100%;
+    height: 1000px;
+    
+}
